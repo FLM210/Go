@@ -1,7 +1,6 @@
 package main
 
 import "fmt"
-import "os"
 
 var a string
 
@@ -10,7 +9,6 @@ func main() {
 	print(a)
 	f1()
 	fmt.Println("12")
-	os.
 }
 
 func f1() {
